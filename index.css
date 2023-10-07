@@ -1,0 +1,273 @@
+/*SMALL*/
+@media (max-width: 576px) {
+    .divNavAlfa {
+        width: 100vw !important;
+    }
+    .imagenCaC{
+        width: 4rem;
+        height: 2rem;
+    }
+    .navPrimero{
+        margin: 0 !important;
+        padding: 0 !important; 
+    }
+    .contenedor{
+        margin: 0;
+        padding: 0;
+        position: relative;
+        display: inline-block;
+        text-align: end;
+        width: 100vw;    
+    }
+    .d-block{
+        filter: brightness(40%);
+        height: 230px;
+    }
+    .divTextoImagen1{
+    margin: 0;
+    padding: 10vh 0;
+    position: absolute;
+    top: 10%;
+    right: 5%;
+    font-size: 20px;
+    color: white;
+    float: right;
+
+    }
+    .divImagen1p1{
+        font-size: 15px;
+    }
+    .divImagen1p2{
+        float: right;
+        width: 300px;
+        font-size: 8px;
+    }
+    .divOradores1{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+    .textOradores1{
+        margin: 0;
+        padding: 0;
+        font-size: 8px;
+    }
+    .textOradores2{
+        margin: 0;
+        padding: 0;
+        font-size: 20px;
+    }
+    .oradoresImagenes{
+        margin: 0px 10px;
+    }
+    .card-text{
+        width: 100px;
+        height: 130px !important;
+        text-align: start;
+        font-size: 8px;
+    }
+    .card-body{
+        margin: 0 !important;
+        padding:7px !important;
+    }
+    .card{
+        width: 120px;
+    }
+    .divImgBill{
+        margin: 0 1em;
+    }
+    .badge{
+        margin: 0;
+        padding: 0;
+        font-size: 8px !important;
+    }
+    .honolulu{
+        border: 0 !important;
+        padding: 0 !important; 
+        height: 135px;
+    }
+    .colcol{
+        border: 0 !important;
+        padding: 0 !important;
+    }
+    .img-honolulu{
+        border: 0 !important;
+        padding: 0 !important; 
+        width: 225px;
+        height: 25vh; 
+    }
+    .titulo-honolulu{
+        border: 0 !important;
+        padding: 5px !important; 
+        width: 225px;
+        height: 25vh; 
+        font-size: 6px;
+    }
+    .honolulup1{
+        font-size: 10px;
+        margin: 0;
+        border: 0;
+        padding: 5px;
+    }
+     .honolulup2{
+        margin-bottom: 5px;
+    }
+    .honoluluboton{
+        font-size: 8px !important;
+        color: white !important;
+        border-color: white !important;
+        border-radius: 10%;
+        background-color: transparent !important;
+    }
+    .orador{
+        border: 0 !important;
+        padding: 10px !important;
+        background-color: grey;
+        text-align: center;
+    }
+    .textOrador1{
+        font-size: 10px; 
+    }
+    .textOrador2{
+        font-size: 30px; 
+    }
+}
+
+/*MEDIUM*/
+@media (min-width: 576px) and (max-width: 769px) {
+    .divNavAlfa {
+        margin: 0;
+        padding: 0;
+        width: 100vw !important;
+    }
+    .navPrimero{
+        margin: 0 !important;
+        padding: 0 !important; 
+    }
+    .ulNav{
+        display: flex;
+        text-align: end;
+        margin: 0;
+        padding: 0;
+        font-size: 0.56rem;
+    }
+  }
+
+
+
+:root{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    margin: 0;
+    padding: 0;
+}
+.divNavAlfa{
+    margin: 0;
+    padding: 0;
+    background: #3c3b3e;
+}
+.d-block{
+    filter: brightness(40%);
+}
+.confBSAS{
+    font-size: 17px;
+}
+.navTexto{
+    color: rgb(116, 116, 116) !important;
+}
+.tickets{
+    color: green !important;
+}
+.oradoresImagenes{
+    justify-content: center;
+    display: flex;
+}
+.hr-azul{  
+    margin: 0 !important;
+    width: 55vw;
+    height: 1.5px;
+    background: rgb(8, 65, 150);
+}
+.hr-gris{
+    margin: 0 !important;
+    width: 45vw;
+    height: 1.5px;
+    background: rgb(41, 45, 50);
+}
+.div-hr-colores{
+    display: inline-flex; 
+}
+.honolulu{
+
+}
+.img-honolulu{
+
+}
+.titulo-honolulu{
+    border: 0;
+    padding: 0; 
+    color: white;
+    background-color: rgb(63, 61, 71);
+}
+.orador{
+    border: 0;
+    padding: 0;
+    background-color: grey;
+    text-align: center;
+    height: 80px;
+}
+.divicol1{
+    height: 5px !important;
+    padding: 0px !important;
+}
+.divicol2{
+    height: 20px !important;
+    padding: 0px !important;
+}
+.divicol3{
+    height: 10px !important;
+    padding: 0px !important;
+}
+.textOrador1{
+    margin: 0;
+    padding: 0;
+}
+.textOrador2{
+    margin: 0;
+    padding: 0;
+}
+.textOrador3{
+    margin: 0;
+    padding: 0;
+    font-size: 9px;
+    display: inline-block;
+}
+.ignite{
+    font-style: normal;
+    font-weight: normal;
+    color: rgb(23, 23, 23);
+    text-decoration: underline dotted;
+}
+
+.formCuadroTexto{
+    margin: 0;
+    padding: 20px;
+    text-align: start;
+    height: 200px;
+    width: 300px;
+}
+.footer{
+    border: 0;
+    padding: 0;
+    height: 15vh;
+}
+.divImagen1p1{
+    margin: 0;
+    padding: 0;
+}
+.badge{
+    margin: 0;
+    padding: 0;
+}
